@@ -49,7 +49,10 @@ Este repositório está dividido em pastas com as seguintes atividades:
 
 ## 📞 Contato
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo via **FeMarqs**.
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato comigo:
+
+- 🔗 [GitHub - FeMarqs](https://github.com/FeMarqs)
+- 🔗 [LinkedIn - Fernando Marques](https://www.linkedin.com/in/fernando-smarques/)
 
 ---
 
